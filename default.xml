@@ -4,7 +4,7 @@
  <remote  name="xl"                                              
            fetch="https://github.com/xiaoliu715/" /> 
   <default revision="master"
-           remote="eb"
+           remote="xl"
            sync-j="4" />
 
   <project path="MyApp/xiaoliu" name="xiaoliu"/> 
